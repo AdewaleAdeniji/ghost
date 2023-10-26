@@ -11,6 +11,7 @@
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
     "ghost": "5.4.0",
+    "python3": "0.0.1",
     "ghost-storage-cloudinary": "2.2.4",
     "lyra": "github:TryGhost/lyra#main",
     "headline": "github:TryGhost/headline#main",
